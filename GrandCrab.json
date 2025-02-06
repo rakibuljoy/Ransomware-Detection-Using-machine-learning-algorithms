@@ -1,0 +1,16 @@
+{
+    "DebugSize": "0",
+    "DebugRVA": "0",
+    "MajorImageVersion": "0",
+    "MajorOSVersion": "0",
+    "ExportRVA": "0",
+    "ExportSize": "0",
+    "IatVRA": "0",
+    "MajorLinkerVersion": "9",
+    "MinorLinkerVersion": "0",
+    "NumberOfSections": "9",
+    "SizeOfStackReserve": "1048576",
+    "DllCharacteristics": "32768",
+    "ResourceSize": "297472",
+    "BitcoinAddresses": "0"
+}
